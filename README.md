@@ -1,0 +1,1 @@
+This Java-based Student Management System allows adding, removing, and finding students by roll number, and displays the top student by average grade. The system manages student details including name, age, course, and grades, demonstrating core OOP concepts such as encapsulation and method overloading in a practical scenario.
